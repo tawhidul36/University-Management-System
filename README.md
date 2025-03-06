@@ -14,7 +14,6 @@ A Django-based University Management System with role-based access for **Admins,
 
 ## 🛠️ Technologies Used
 - **Backend:** Django, PostgreSQL
-- **Frontend:** Bootstrap, JavaScript
 - **Deployment:** Docker
 
 ## 📦 Installation
